@@ -1,0 +1,101 @@
+OrderID,Product,Category,Quantity,PriceEach,OrderDate,City,CustomerID
+1,Apple iPhone 13,Electronics,1,999.99,2025-04-01,New York,CUST1001
+2,MacBook Pro 16",Electronics,1,2499.99,2025-04-01,San Francisco,CUST1002
+3,Wireless Mouse,Accessories,2,29.99,2025-04-01,Chicago,CUST1003
+4,AirPods Pro,Accessories,1,249.99,2025-04-02,Los Angeles,CUST1004
+5,LG 55" TV,Electronics,1,799.99,2025-04-02,Miami,CUST1005
+6,HP Laptop,Electronics,1,1299.99,2025-04-03,Dallas,CUST1006
+7,KitchenAid Mixer,Appliances,1,499.99,2025-04-03,Denver,CUST1007
+8,Levi’s Jeans,Clothing,3,49.99,2025-04-04,Atlanta,CUST1008
+9,Adidas Sneakers,Clothing,2,89.99,2025-04-04,Seattle,CUST1009
+10,Instant Pot,Appliances,1,89.99,2025-04-05,Portland,CUST1010
+11,Nintendo Switch,Electronics,1,299.99,2025-04-05,Boston,CUST1011
+12,Samsung Galaxy S21,Electronics,1,799.99,2025-04-06,Austin,CUST1012
+13,Dell XPS 13,Laptops,1,999.99,2025-04-06,Chicago,CUST1013
+14,Fitbit Charge 5,Health & Fitness,2,149.99,2025-04-07,Houston,CUST1014
+15,Canon EOS Rebel Camera,Photography,1,699.99,2025-04-07,San Diego,CUST1015
+16,Garmin GPS,Electronics,1,199.99,2025-04-08,New York,CUST1016
+17,KitchenAid Blender,Appliances,1,149.99,2025-04-08,Miami,CUST1017
+18,Reebok Running Shoes,Clothing,2,59.99,2025-04-09,Los Angeles,CUST1018
+19,Apple Watch Series 8,Electronics,1,399.99,2025-04-09,San Francisco,CUST1019
+20,Surface Pro 7,Electronics,1,749.99,2025-04-10,Dallas,CUST1020
+21,Sony PlayStation 5,Electronics,1,499.99,2025-04-10,Chicago,CUST1021
+22,The North Face Jacket,Clothing,1,199.99,2025-04-11,Portland,CUST1022
+23,Smart Home Thermostat,Appliances,1,199.99,2025-04-11,Seattle,CUST1023
+24,Samsung Galaxy Buds,Accessories,2,149.99,2025-04-12,Austin,CUST1024
+25,Electric Toothbrush,Health & Fitness,3,39.99,2025-04-12,New York,CUST1025
+26,Polar Vantage V2,Health & Fitness,1,499.99,2025-04-13,San Diego,CUST1026
+27,GoPro Hero 10,Electronics,1,399.99,2025-04-13,Boston,CUST1027
+28,Philips Sonicare,Health & Fitness,1,99.99,2025-04-14,San Francisco,CUST1028
+29,Blender Bottle,Health & Fitness,2,14.99,2025-04-14,Miami,CUST1029
+30,LG OLED TV,Electronics,1,1499.99,2025-04-15,Dallas,CUST1030
+31,Beats Studio3,Accessories,1,349.99,2025-04-15,Portland,CUST1031
+32,MacBook Air,Electronics,1,999.99,2025-04-16,Seattle,CUST1032
+33,Black & Decker Drill,Tools,1,69.99,2025-04-16,Austin,CUST1033
+34,Canon EOS 5D Camera,Photography,1,2499.99,2025-04-17,Chicago,CUST1034
+35,KitchenAid Coffee Maker,Appliances,1,79.99,2025-04-17,Houston,CUST1035
+36,Sony 65" TV,Electronics,1,1299.99,2025-04-18,New York,CUST1036
+37,Tommy Hilfiger Shirt,Clothing,2,39.99,2025-04-18,San Francisco,CUST1037
+38,Black Leather Wallet,Accessories,1,59.99,2025-04-19,Chicago,CUST1038
+39,Samsung Galaxy Tab,Electronics,1,499.99,2025-04-19,Miami,CUST1039
+40,Beats Flex,Accessories,2,49.99,2025-04-20,Portland,CUST1040
+41,Nike Air Max 270,Clothing,1,129.99,2025-04-20,San Diego,CUST1041
+42,Apple Mac Mini,Electronics,1,699.99,2025-04-21,New York,CUST1042
+43,Xbox Series X,Electronics,1,499.99,2025-04-21,Los Angeles,CUST1043
+44,Amazon Kindle,Electronics,1,129.99,2025-04-22,Seattle,CUST1044
+45,Lenovo ThinkPad,Laptops,1,799.99,2025-04-22,Denver,CUST1045
+46,ASUS Gaming Monitor,Electronics,1,399.99,2025-04-23,Boston,CUST1046
+47,Beats Solo3,Accessories,1,199.99,2025-04-23,Chicago,CUST1047
+48,GoPro HERO 9,Electronics,1,349.99,2025-04-24,San Francisco,CUST1048
+49,Philips Air Fryer,Appliances,1,129.99,2025-04-24,Portland,CUST1049
+50,Fitbit Inspire 2,Health & Fitness,2,99.99,2025-04-25,Miami,CUST1050
+51,Apple MacBook Pro,Electronics,1,2399.99,2025-04-25,New York,CUST1051
+52,Bose QuietComfort 35,Accessories,1,299.99,2025-04-26,San Francisco,CUST1052
+53,Samsung Galaxy S20,Electronics,1,699.99,2025-04-26,Los Angeles,CUST1053
+54,Canon EOS 6D,Photography,1,1799.99,2025-04-27,Miami,CUST1054
+55,KitchenAid Stand Mixer,Appliances,1,349.99,2025-04-27,Portland,CUST1055
+56,Apple Watch SE,Electronics,1,249.99,2025-04-28,Chicago,CUST1056
+57,Fitbit Charge 4,Health & Fitness,1,149.99,2025-04-28,Austin,CUST1057
+58,Asus Laptop,Electronics,1,799.99,2025-04-29,Boston,CUST1058
+59,Nike Air Force 1,Clothing,2,89.99,2025-04-29,San Diego,CUST1059
+60,Xiaomi Mi Band 6,Health & Fitness,3,49.99,2025-04-30,Miami,CUST1060
+61,Sony 75" TV,Electronics,1,1699.99,2025-04-30,Los Angeles,CUST1061
+62,Dell Alienware PC,Electronics,1,1499.99,2025-05-01,Chicago,CUST1062
+63,Nintendo Switch Lite,Electronics,1,199.99,2025-05-01,Austin,CUST1063
+64,Fitbit Versa 3,Health & Fitness,1,229.99,2025-05-02,Portland,CUST1064
+65,Samsung QLED 4K TV,Electronics,1,1299.99,2025-05-02,Seattle,CUST1065
+66,Apple iPad Air,Electronics,1,599.99,2025-05-03,San Francisco,CUST1066
+67,Sony Noise Cancelling Headphones,Accessories,1,349.99,2025-05-03,Dallas,CUST1067
+68,KitchenAid Coffee Grinder,Appliances,1,79.99,2025-05-04,Houston,CUST1068
+69,Levi’s Denim Jacket,Clothing,1,79.99,2025-05-04,Chicago,CUST1069
+70,Reebok CrossFit Shoes,Clothing,1,119.99,2025-05-05,Miami,CUST1070
+71,GoPro Hero 8,Electronics,1,299.99,2025-05-05,Portland,CUST1071
+72,Samsung Galaxy Note 20,Electronics,1,999.99,2025-05-06,San Diego,CUST1072
+73,HP Pavilion Desktop,Electronics,1,699.99,2025-05-06,New York,CUST1073
+74,Apple MacBook Air M1,Electronics,1,999.99,2025-05-07,Los Angeles,CUST1074
+75,Dell UltraSharp Monitor,Electronics,1,599.99,2025-05-07,Seattle,CUST1075
+76,Apple AirPods Max,Accessories,1,549.99,2025-05-08,Chicago,CUST1076
+77,Sonos One Speaker,Electronics,1,199.99,2025-05-08,Dallas,CUST1077
+78,Samsung 32" Monitor,Electronics,1,199.99,2025-05-09,Portland,CUST1078
+79,Levi’s 501 Jeans,Clothing,2,59.99,2025-05-09,San Francisco,CUST1079
+80,Canon PowerShot G7,Photography,1,749.99,2025-05-10,Miami,CUST1080
+81,Apple iPhone 12 Pro,Electronics,1,1099.99,2025-05-10,Los Angeles,CUST1081
+82,Apple iMac,Electronics,1,1799.99,2025-05-11,San Diego,CUST1082
+83,Microsoft Surface Laptop 3,Electronics,1,1299.99,2025-05-11,Boston,CUST1083
+84,Apple HomePod,Accessories,1,299.99,2025-05-12,Austin,CUST1084
+85,Canon EOS 90D,Photography,1,1299.99,2025-05-12,Chicago,CUST1085
+86,Reebok Cross Trainer,Clothing,1,69.99,2025-05-13,Portland,CUST1086
+87,Apple iPhone 12,Electronics,1,799.99,2025-05-13,New York,CUST1087
+88,Nike Training Shoes,Clothing,1,79.99,2025-05-14,San Diego,CUST1088
+89,GoPro Hero 7,Electronics,1,249.99,2025-05-14,Seattle,CUST1089
+90,Samsung Galaxy Watch 3,Electronics,1,399.99,2025-05-15,Los Angeles,CUST1090
+91,Apple Watch 7,Electronics,1,399.99,2025-05-15,Dallas,CUST1091
+92,Sonos Beam,Electronics,1,399.99,2025-05-16,San Francisco,CUST1092
+93,Apple Magic Keyboard,Accessories,1,129.99,2025-05-16,Austin,CUST1093
+94,Samsung 75" QLED TV,Electronics,1,2999.99,2025-05-17,Miami,CUST1094
+95,Beats by Dre,Accessories,1,249.99,2025-05-17,Chicago,CUST1095
+96,Apple Mac Mini M1,Electronics,1,699.99,2025-05-18,Portland,CUST1096
+97,HP Spectre x360,Laptops,1,1399.99,2025-05-18,San Francisco,CUST1097
+98,Sony WH-1000XM4,Accessories,1,348.99,2025-05-19,Boston,CUST1098
+99,Logitech Webcam,Electronics,1,99.99,2025-05-19,Dallas,CUST1099
+100,Nintendo Switch Pro Controller,Accessories,1,69.99,2025-05-20,Seattle,CUST1100
